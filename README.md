@@ -3,8 +3,8 @@
     I studied for three years at EPFL in Switzerland where I learned mathematics and computer science,
     before ending my bachelor degree with one year at the University of Oxford.
     
-- 👀 I’m interested in machine intelligence and computer vision.
-    More generaly, I am passionate about all computer science topics.
+- 👀 I’m passionate about machine intelligence and computer vision.
+    More generaly, I am interested in all computer science topics.
 
 - 🌱 I’m currently learning deep learning methods for computer vision and probablistic artificial intelligence.
 
