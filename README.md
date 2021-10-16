@@ -50,8 +50,10 @@
     <br>
 
 <!-- | ![My github stats](https://github-readme-stats.vercel.app/api?username=tancredeguillou&show_icons=true&theme=tokyonight) -->
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tancredeguillou&theme=tokyonight" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tancredeguillou&theme=tokyonight" /></p>
+<div align = "center">
+    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tancredeguillou&theme=tokyonight" /></p>
+    <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tancredeguillou&theme=tokyonight" /></p>
+</div>
 <!-- ![My GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tancredeguillou&theme=tokyonight) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tancredeguillou&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=tancredeguillou&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) | -->
 
 <br>
