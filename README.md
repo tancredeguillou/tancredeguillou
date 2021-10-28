@@ -52,6 +52,8 @@
 <div align = "center">
     <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tancredeguillou&theme=tokyonight" /></p>
     <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tancredeguillou&theme=tokyonight" /></p>
+    <p><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=tancredeguillou&theme=gradient" /></p>
+
 </div>
 
 <br>
