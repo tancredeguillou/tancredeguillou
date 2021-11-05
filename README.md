@@ -66,14 +66,9 @@ Markdown   7 mins          ▒░░░░░░░░░░░░░░░░�
 
 <br>
 
-<div>
-  <img src="https://github.com/Pepyn0/Pepyn0/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</div>
-
 ------
-Credits: [Pepyn0](https://github.com/Pepyn0)
 
-Last Edited on: 17/10/2021
+Last Edited on: 05/11/2021
 
 [facebook]: https://www.facebook.com/tancrede.guillou
 [instagram]: https://instagram.com/tancredeguillou
