@@ -58,7 +58,7 @@ Python   3 hrs 4 mins    ██████████▒░░░░░░░�
     <br>
 
 <div align = "center">
-    <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tancredeguillou&hide=processing, assembly, makefile, shell, php, css, html, dockerfile&theme=tokyonight" /></p>
+    <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tancredeguillou&hide=processing, assembly, makefile, shell, php, css, java, html, dockerfile&theme=tokyonight" /></p>
     <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tancredeguillou&theme=tokyonight" /></p>
 </div>
 
