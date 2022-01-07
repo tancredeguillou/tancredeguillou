@@ -48,8 +48,9 @@
 ### My coding week
 <!--START_SECTION:waka-->
 ```text
-Other    4 hrs 24 mins   ██████████████▓░░░░░░░░░░   58.91 % 
-Python   3 hrs 4 mins    ██████████▒░░░░░░░░░░░░░░   41.09 % 
+Python     5 hrs 9 mins    █████████████▒░░░░░░░░░░░   53.71 % 
+Other      4 hrs 25 mins   ███████████▓░░░░░░░░░░░░░   46.11 % 
+Markdown   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
 ```
 <!--END_SECTION:waka-->
 
