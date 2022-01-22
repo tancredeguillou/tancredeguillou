@@ -48,7 +48,7 @@
 ### My coding week
 <!--START_SECTION:waka-->
 ```text
-Python   1 hr 17 mins    █████████████████████████   99.80 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
