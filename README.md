@@ -49,7 +49,8 @@
 <!--START_SECTION:waka-->
 
 ```text
-Markdown   19 mins         █████████████████████████   100.00 %
+C++        38 mins         ████████████████▒░░░░░░░░   65.71 %
+Markdown   19 mins         ████████▓░░░░░░░░░░░░░░░░   34.29 %
 ```
 
 <!--END_SECTION:waka-->
